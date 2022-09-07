@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grandma\'s ice cream</string>
+    <string name="nev">Név</string>
+    <string name="kosarba">Kosárba</string>
+    <string name="ar">Ár</string>
+    <string name="cart">Cart</string>
+    <string name="tipus">Típus</string>
+    <string name="extras">Extras</string>
+    <string name="kategoria">Kategória</string>
+</resources>
